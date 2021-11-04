@@ -4,7 +4,7 @@
 
 - https://hub.docker.com/u/in28min
 - Currency Exchange Service 
-	- in28min/mmv2-currency-exchange-service:0.0.1-SNAPSHOT
+	- dtrvno/mmv2-currency-exchange-service:0.0.1-SNAPSHOT
 - Currency Conversion Service
 	- in28min/mmv2-currency-conversion-service:0.0.1-SNAPSHOT
 - Eureka
